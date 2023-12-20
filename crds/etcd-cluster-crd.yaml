@@ -12,7 +12,6 @@ metadata:
 spec:
   group: etcd.database.coreos.com
   scope: Namespaced
-  version: v1beta2
   names:
     kind: EtcdCluster
     listKind: EtcdClusterList
